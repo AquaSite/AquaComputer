@@ -1,12 +1,13 @@
 #Aquarium Computer
 
 Aquarium-Computer mit folgenden Aufgaben:
-Tages und Wochend¸ngungen
+Tages und Wochend√ºngungen
 Steuerung der Beleuchtung mit extra Wochenend-Programm
 Data Logging im Internet mit E-Mail Benachrichtigung
 Steuerung der CO2 Anlage
 
 Verwendete Hardware:
+
 1x Arduino Mega
 1x RTC DS1307
 1x ESP8266 ESP07
@@ -20,4 +21,4 @@ Verwendete Hardware:
 
 Ein paar Bilder des Aufbaus sind auf http://aquarium-site.de/category/technik/ zu sehen.
 
-Der Code anbei ist noch nicht fertig, wird jedoch st‰ndig erg‰nzt. Einen genauen Fortschritt der Konstruktion ist auf der Webseite zu sehen.
+Der Code anbei ist noch nicht fertig, wird jedoch st√§ndig erg√§nzt. Einen genauen Fortschritt der Konstruktion ist auf der Webseite zu sehen.
